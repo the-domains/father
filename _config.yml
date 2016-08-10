@@ -6,9 +6,9 @@ color:
   saturation: 0.4460809074807912
   rhythmicContrast: 0.8255002296064049
   brandColors:
-    - '#000000'
     - '#FFFFFF'
-    - '#C2C2C2'
-    - '#C81413'
-    - '#828282'
+    - '#635F53'
+    - '#040201'
+    - '#A50000'
+    - '#E27C0D'
 name: father
